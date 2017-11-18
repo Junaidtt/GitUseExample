@@ -13,6 +13,7 @@
 		A5068A281FC0BA6D00650109 /* GitUseExample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A5068A261FC0BA6D00650109 /* GitUseExample.xcdatamodeld */; };
 		A5068A2A1FC0BA6D00650109 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5068A291FC0BA6D00650109 /* Assets.xcassets */; };
 		A5068A2D1FC0BA6D00650109 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5068A2B1FC0BA6D00650109 /* LaunchScreen.storyboard */; };
+		A5068A351FC0BF7E00650109 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5068A341FC0BF7E00650109 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A5068A291FC0BA6D00650109 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5068A2C1FC0BA6D00650109 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A5068A2E1FC0BA6D00650109 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A5068A341FC0BF7E00650109 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A5068A2B1FC0BA6D00650109 /* LaunchScreen.storyboard */,
 				A5068A2E1FC0BA6D00650109 /* Info.plist */,
 				A5068A261FC0BA6D00650109 /* GitUseExample.xcdatamodeld */,
+				A5068A341FC0BF7E00650109 /* MapForItinerary.swift */,
 			);
 			path = GitUseExample;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5068A351FC0BF7E00650109 /* MapForItinerary.swift in Sources */,
 				A5068A221FC0BA6D00650109 /* ViewController.swift in Sources */,
 				A5068A281FC0BA6D00650109 /* GitUseExample.xcdatamodeld in Sources */,
 				A5068A201FC0BA6D00650109 /* AppDelegate.swift in Sources */,
